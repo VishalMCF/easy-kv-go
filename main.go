@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello key value store")
+	fmt.Println("Hello easy key value store")
 }
